@@ -14,9 +14,8 @@ This project is part of the **Google Cybersecurity Certificate Program on Course
 - Suggested security improvements to align with **PCI DSS, GDPR, and SOC standards**.
 
 ## Files Included
-- **audit_checklist.md** - Completed checklist based on the risk assessment.
-- **audit_explanation.md** - Simple explanation of why each answer was selected.
-- **recommendations.md** - My recommendations for improving security.
+- **Internal AUDIT Activity Pt.1.docx** - The sample company the audit was conducted on also presents their scope, goals and risk assessment report.
+- **Internal AUDIT Activity Pt.2.docx** - Completed checklist based on the risk assessment and recommendations for improving security.
 
 ## Skills Demonstrated
 - Cybersecurity risk assessment
